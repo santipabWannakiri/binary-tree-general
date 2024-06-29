@@ -1,6 +1,7 @@
 # binary-tree-general
 
-
+Key important\
+Recursive
 
 Depth-First Search\
 pre-order traversal\
